@@ -1,0 +1,18 @@
+"for":
+es un bucle que evalua expresiones una y otra vez hasta que devuelva lo que estamos buscando o se detenga despues de cierto tiempo. Para ello necesitamos:
+1°) declarar una variable sobre la que se repetira el bucle
+2°) escribir una expresion condicional que en cuanto sea "true" el bucle continuara y cuando sea "false" deja de funcionar
+3°) incrementar la variable cada vez que llegue al final en + 1.
+
+"&&", "||", "!":
+los operadores logicos sirven para combinar 2 expresiones de igualdad y preguntar si alguna de las dos es verdadera.
+
+"&&" (AND) - Y:
+evalua las expresiones y devuelve "true" si ambas son verdaderas. Si una o ambas son falsas devuelve "false"
+
+"||" (OR) - ó:
+evalua las expresiones y devuelve "true" si una o ambas son verdaderas. Si ambas son falsas devuelve "false"
+
+"!" (NOT) - NO:
+devuelve el valor booleano opuesto de lo que se le pasa. Si "if" da false "!" será true y visceversa.
+ 
