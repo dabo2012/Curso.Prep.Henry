@@ -1,0 +1,19 @@
+Variables:
+damos un nombre a una variable y le asignamos un valor para utilizar más tarde.
+
+Strings:
+uno o más caracteres encerrados entre comillas forman lo que se llama una cadena de caracteres.
+Cuando creamos una variable y le asignamos una cadena de caracteres tenemos una String o sea una variable de texto.
+
+Funciones (argumentos, "return")
+las funciones nos permiten agrupar lineas de codigo bajo un nombre para posteriormente al llamarla (invocarla) se ejecuten todas las tareas dentro de ella y nos devuelva un valor.
+De esta forma evitamos repetirnos, no escribir varias veces una linea de codigo similar.
+Los argumentos son las variables dentro de la función y usamos "return" para devolver lo que esta dentro de la funcion.
+
+Declaraciones "if":
+una funcion puede verificar si algo es verdadero para eso usamos la palabra clave "if" que quiere decir "si". Si algo es verdadero entonces devolvemos "true".
+
+Valores booleanos "true" / "false":
+una variable es booleana si se le asigna "true" o "false". Booleano es un tipo de dato que apenas tiene dos valores:
+"true" = verdadero/si o "false" = falso/no
+
